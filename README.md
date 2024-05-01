@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on flutter apps<br>👯 I’m looking to collaborate on AI, ML and flutter projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Web technology<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on flutter apps<br>👯 I’m looking to collaborate on AI, ML and flutter projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Web technology<br>💬 Ask me about flutter ,web and AI<br>⚡ Fun fact is coding is everything
 
 
 ## 🌐 Socials:
